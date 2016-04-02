@@ -1,2 +1,2 @@
-# Front-End-Developer-Nano
-This is for projects and files related to the Udacity Front End Developer Nano Degree
+# FED Portfolio Project
+This is my FED portfolio Project via Udacity
