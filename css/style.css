@@ -1,0 +1,63 @@
+body {
+
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300
+}
+
+.text-muted {
+	color:BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100
+}
+
+.title-super{
+	font-size: 60px
+}
+
+.title-logo {
+	margin-top: 20px
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 3px solid #BCBBBB;
+}
+
+.indent-left{
+   margin-left: 10px
+}
+
+
+@media (min-width: 600px) and (max-width: 1000px)
+{
+
+     .mydiv{
+
+     	width:50%;
+     	float:left;
+     	text-align: center;
+     }
+
+}
+
+@media (min-width: 0px) and (max-width: 599px)
+{
+    .mydiv2{
+
+         text-align:left;
+
+    }
+
+}
+
+
+
+
+
+
+
