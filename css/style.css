@@ -1,66 +1,54 @@
 body {
-
-	font-family: 'Lato', sans-serif;
-	color: #747704;
-	font-weight: 300;
-
-
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
 }
 
 .text-muted {
-	color:#BCBBBB;
+    color: #BCBBBB;
 }
 
 .text-thin {
-	font-weight: 100
+    font-weight: 100;
 }
 
-.title-super{
-	font-size: 60px
+.title-super {
+    font-size: 60px;
 }
 
 .title-logo {
-	margin-top: 28px
+    margin-top: 28px;
 }
 
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 0;
-  border-top: 3px solid #BCBBBB;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 3px solid #BCBBBB;
 }
 
-.indent-left{
-   margin-left: 10px
+.indent-left {
+    margin-left: 10px;
 }
 
-.linkcolor{
-  color: #747704
+.linkcolor {
+    color: #747704;
 }
 
+@media screen and (min-width: 600px) and (max-width: 1000px) {
 
-
-@media screen and (min-width: 600px) and (max-width: 1000px)
-{
-
-     .mydiv{
-
-     	width:50%;
-     	float:left;
-     	}
-
+    .mydiv {
+        width: 50%;
+        float: left;
+    };
 }
 
-@media screen and (min-width: 0px) and (max-width: 599px)
-{
+@media screen and (min-width: 0px) and (max-width: 599px) {
 
-    .title-medium{
-      font-size: 45px;
-    }
-
-
+    .title-medium {
+        font-size: 45px;
+    };
 }
-
 
 
 
