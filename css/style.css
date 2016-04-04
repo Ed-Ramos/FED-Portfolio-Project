@@ -2,11 +2,13 @@ body {
 
 	font-family: 'Lato', sans-serif;
 	color: #747704;
-	font-weight: 300
+	font-weight: 300;
+
+
 }
 
 .text-muted {
-	color:BCBBBB;
+	color:#BCBBBB;
 }
 
 .text-thin {
@@ -18,7 +20,7 @@ body {
 }
 
 .title-logo {
-	margin-top: 20px
+	margin-top: 28px
 }
 
 hr {
@@ -32,26 +34,30 @@ hr {
    margin-left: 10px
 }
 
+.linkcolor{
+  color: #747704
+}
 
-@media (min-width: 600px) and (max-width: 1000px)
+
+
+@media screen and (min-width: 600px) and (max-width: 1000px)
 {
 
      .mydiv{
 
      	width:50%;
      	float:left;
-     	text-align: center;
-     }
+     	}
 
 }
 
-@media (min-width: 0px) and (max-width: 599px)
+@media screen and (min-width: 0px) and (max-width: 599px)
 {
-    .mydiv2{
 
-         text-align:left;
-
+    .title-medium{
+      font-size: 45px;
     }
+
 
 }
 
